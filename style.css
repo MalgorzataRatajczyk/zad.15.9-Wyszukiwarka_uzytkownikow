@@ -1,0 +1,33 @@
+body {
+    background-color: lavender;
+}
+#root {
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+form {
+    margin: 20px 0 20px 0;
+
+}
+form label {
+    padding: 5px;
+    font-family: cursive;
+}
+form input {
+    border-radius: 5px;
+    height: 30px;
+    width: 250px;
+}
+
+div {
+    display: flex;
+    flex-flow: row wrap;
+}
+img {
+    padding: 10px;
+}
+
+a {
+    padding: 0 10px 10px 0;
+}
